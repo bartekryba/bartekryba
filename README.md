@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Bartosz, Software Engineer with experience in mobile and blockchain developemnt. For my CV, see [my page](bartekryba.github.com).
+I'm Bartosz, Software Engineer with experience in mobile and blockchain developemnt. For my CV, see [my page](https://www.bartekryba.github.com).
 
 
 #### OpenSource I contributed to comercially:
@@ -17,6 +17,7 @@ I'm Bartosz, Software Engineer with experience in mobile and blockchain develope
 [Diakrytynizator](https://github.com/bartekryba/SO_1) polynomial UTF-8 transformer in [_Assembly_]  
 [Noteć](https://github.com/bartekryba/SO_2) concurrent stack-based calculator in [_Assembly_]  
 [Attention is all you need](https://github.com/FinitePhaseSpace/DNLP2025) - reimplementation of a groundbreaking LLM paper [_Python_, _Pytorch_]  
+**Kerma** blockchain node written in [_Typescript_, _Node.js_]  
 **Concurrent queue** implementations in [_c++_, _OpenMP_]  
 **Prediction market arbitrage bot** - a bot that uses NLP to match the same events on polymarket and kalshi, then monitors them for arbitrage opportunities developed at [WUTIS](wutis.at/) [_Python_]  
 **Race car path** - finding an optimal race car path with Reinforcement Learning. [_Python_]  
@@ -26,7 +27,7 @@ I'm Bartosz, Software Engineer with experience in mobile and blockchain develope
 
 
 #### Currently working on
-Vienna Mosaics - Pokemon-like app to discover mosaics around Vienna. [_React Native_, _Supabase_]  
+**Vienna Mosaics** - Pokemon-like app to discover mosaics around Vienna. [_React Native_, _Supabase_]  
 
 #### Currently reading
 **Domain Driven Design** by Eric Evans.  
