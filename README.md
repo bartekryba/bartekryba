@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-I'm Bartosz, Software Engineer with deep experience in mobile and blockchain developemnt. For my CV, see [my page](bartekryba.github.com).
+I'm Bartosz, Software Engineer with experience in mobile and blockchain developemnt. For my CV, see [my page](bartekryba.github.com).
 
-#### Currently working on
-Vienna Mosaics - Pokemon-like app to discover mosaics around Vienna. [_React Native_, _Supabase_]  
 
 #### OpenSource I contributed to comercially:
 [starknet-swift](https://github.com/software-mansion/starknet.swift) - Starknet SDK for Swift. [_Swift_]  
@@ -25,3 +23,16 @@ Vienna Mosaics - Pokemon-like app to discover mosaics around Vienna. [_React Nat
 **Screen worms** multiplayer snake-like game in [_c++_]  
 **Concurrent Page Rank** algorithm in [_c++_]  
 **WienerWohnWaage** - service to compare apartment locations in Vienna [_React_, _Spring Boot_, _H2gis_, _Graphhopper_]
+
+
+#### Currently working on
+Vienna Mosaics - Pokemon-like app to discover mosaics around Vienna. [_React Native_, _Supabase_]  
+
+#### Currently reading
+**Domain Driven Design** by Eric Evans.  
+**The Stormlight Archive** by Brandon Sanderson.
+
+#### Currently learning
+Rust  
+Linux & bash  
+Zero knowledge proofs
