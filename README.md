@@ -21,6 +21,7 @@ Vienna Mosaics - Pokemon-like app to discover mosaics around Vienna. [_React Nat
 [Attention is all you need](https://github.com/FinitePhaseSpace/DNLP2025) - reimplementation of a groundbreaking LLM paper [_Python_, _Pytorch_]  
 **Concurrent queue** implementations in [_c++_, _OpenMP_]  
 **Prediction market arbitrage bot** - a bot that uses NLP to match the same events on polymarket and kalshi, then monitors them for arbitrage opportunities developed at [WUTIS](wutis.at/) [_Python_]  
-**Race car path** - finding an optimal race car path with Reinforcement Learning. [_Python_]
+**Race car path** - finding an optimal race car path with Reinforcement Learning. [_Python_]  
 **Screen worms** multiplayer snake-like game in [_c++_]  
 **Concurrent Page Rank** algorithm in [_c++_]  
+**WienerWohnWaage** - service to compare apartment locations in Vienna [_React_, _Spring Boot_, _H2gis_, _Graphhopper_]
