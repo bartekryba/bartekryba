@@ -23,7 +23,7 @@ I'm Bartosz, Software Engineer with experience in mobile and blockchain developm
 **Race car path** - finding an optimal race car path with Reinforcement Learning. [_Python_]  
 **Screen worms** multiplayer snake-like game in [_c++_]  
 **Concurrent Page Rank** algorithm in [_c++_]  
-**WienerWohnWaage** - service to compare apartment locations in Vienna [_React_, _Spring Boot_, _H2gis_, _Graphhopper_]
+**WienerWohnWaage** - service to compare apartment locations in Vienna [_React_, _Spring Boot_, _Graphhopper_]
 
 
 #### Currently working on
@@ -36,4 +36,3 @@ I'm Bartosz, Software Engineer with experience in mobile and blockchain developm
 #### Currently learning
 Rust  
 Linux & bash  
-Zero knowledge proofs
