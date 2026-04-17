@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Bartosz, Software Engineer with experience in mobile and blockchain development. For my CV, see [my page](https://bartekryba.github.io).
+I'm Bartosz, Software Engineer with experience in mobile and blockchain development. For my CV, see [my page](https://rybarski.dev).
 
 
 #### OpenSource I contributed to comercially:
